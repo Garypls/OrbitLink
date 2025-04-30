@@ -76,4 +76,5 @@ v1.0 - Final Release
 - Integrated better notification handling for the auto-join feature, ensuring users receive accurate feedback when auto-join starts, is cancelled, or completes.
 - Finalized the codebase with documentation and comments for future updates.
 - Full stability improvements and minor bug fixes.
+- Footer credits updated: "Made by Gary | With love from the Blanco's Boys | Discord: gery"
 - Version 1.0 now marks the completion of OrbitLink’s core features, ready for public release!
