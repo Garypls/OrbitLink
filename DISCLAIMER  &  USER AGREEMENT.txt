@@ -1,7 +1,7 @@
 DISCLAIMER  &  USER AGREEMENT
 ────────────────────────────────────────────────────────────────────
 OrbitLink is an unofficial, fan-made utility.  
-It is **not** affiliated with or endorsed by Bungie, Inc.
+It is not affiliated with or endorsed by Bungie, Inc.
 
 By downloading or using OrbitLink you acknowledge and agree that:
 
