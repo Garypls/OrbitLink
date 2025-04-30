@@ -1,0 +1,79 @@
+OrbitLink - Changelog V1.0
+======================
+
+v0.1 - Initial Prototype
+------------------------
+- Created standalone Python script for auto-joining Destiny 2 fireteams using `/join` commands.
+- Basic functionality: copy Bungie tag from hovered Discord message and send to D2 chat.
+- Used hardcoded global hotkey (F4) for triggering action.
+- GUI window using PySide6 with basic layout and history log.
+- Persistent `.ini` file created for hotkey configuration.
+
+v0.2 - Tray Integration & Logging
+---------------------------------
+- Added system tray icon (ghost.ico) with show/hide/quit options.
+- Minimise button now hides app to system tray with toast popup.
+- Join history saved to `join_history.log`.
+- Search bar added to filter command history.
+- Refined styling to match Destiny 2 dark theme.
+
+v0.3 - Improved UI & Animation
+------------------------------
+- Modernized dark mode styling with accent color and clean fonts.
+- Animated pulse effect on successful join.
+- Drag-to-move window enabled by clicking on title bar area.
+- "×" button now properly exits the application with no residual processes.
+- Added fixed-size buttons and padding consistency.
+
+v0.4 - Custom Icon & Branding
+-----------------------------
+- Packaged app into `.exe` using PyInstaller with `d2ghost.ico` as file and tray icon.
+- Taskbar and Alt-Tab now show the ghost icon correctly.
+- App named "OrbitLink" with header title and branding update.
+
+v0.5 - Live Hotkey Editing
+--------------------------
+- ⚙️ Cogwheel added to GUI allowing on-the-fly editing of the global hotkey.
+- Hotkey updates apply immediately without restart and are saved to the `.ini` file.
+- Description text updates live to reflect new hotkey.
+- Error handling added for invalid hotkey inputs.
+
+v0.6 - UI Polish & Behavior Fixes
+---------------------------------
+- Added support for double-clicking join history to rejoin fireteams.
+- Improved Destiny 2 window detection and paste reliability.
+- Fixed deprecated Qt calls: replaced `globalPos()` with `globalPosition().toPoint()`.
+- Replaced `Qt.InOutQuad` easing curve with `QEasingCurve.InOutQuad`.
+
+v0.7 - Final UI Enhancements & Credits
+--------------------------------------
+- Custom gear icon (`gear.ico`) added for cogwheel button.
+- Refined hover effects and padding on cogwheel and system buttons.
+- Footer credits added: "Made by Gary | Bungie ID: Gary#1435 | Discord: gery"
+- Clan recruitment message and Discord invite included in GUI.
+- Minor layout fixes and text alignment improvements.
+
+v0.8 - Auto Join Enhancements
+-----------------------------
+- Added functionality for auto-joining fireteams with random intervals between attempts (0.5–1 second).
+- Integrated a cancel hotkey (ESC) to stop auto-joining mid-action.
+- Improved logging to prevent spamming the history window with each auto-join attempt; now only the start and completion of auto-join are logged.
+- Enhanced error handling for missing Destiny 2 window or invalid Bungie IDs.
+
+v0.9 - Auto Join Duration & UI Overhaul
+-----------------------------------------
+- Introduced a 30-second auto-join duration for automatic retries, with the ability to cancel at any time.
+- Auto-join process now provides user feedback: "Auto joining [username] for 30s..." displayed in the history log, and it dynamically updates to "Ready" once the process is completed.
+- Fixed issue where the title of the application was misaligned in the top bar.
+- Minor UI tweaks to ensure consistency across different window sizes.
+- History entries now sorted by timestamp, ensuring proper order after application restart.
+
+v1.0 - Final Release
+------------------------
+- Refined the entire UI with more polished graphics, ensuring a clean and intuitive interface.
+- All known bugs and issues addressed, including the random intervals in the auto-join feature.
+- Fully optimized the app for performance, with smoother animations and more reliable hotkey registration.
+- Integrated better notification handling for the auto-join feature, ensuring users receive accurate feedback when auto-join starts, is cancelled, or completes.
+- Finalized the codebase with documentation and comments for future updates.
+- Full stability improvements and minor bug fixes.
+- Version 1.0 now marks the completion of OrbitLink’s core features, ready for public release!
