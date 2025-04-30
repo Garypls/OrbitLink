@@ -71,3 +71,24 @@ If you have any questions or need help, feel free to contact the developer on Di
 
 License
 This tool open-source  and free for use by anyone and does not require a license.
+
+DISCLAIMER  &  USER AGREEMENT
+────────────────────────────────────────────────────────────────────
+OrbitLink is an unofficial, fan-made utility.  
+It is **not** affiliated with or endorsed by Bungie, Inc.
+
+By downloading or using OrbitLink you acknowledge and agree that:
+
+1. You are solely responsible for any consequences that may arise
+   from its use, including but not limited to game bans or account
+   actions issued by Bungie or third-party services.
+
+2. The software is provided “AS IS”, without warranty of any kind.
+   The author disclaims all liability for damages of any kind
+   arising out of its use.
+
+3. You will comply with Destiny 2’s Terms of Service, Code of
+   Conduct, and any other applicable policies.
+
+If you do not agree to all of the above, delete all Orbitlink files
+and folders immediately and do not use the program.
