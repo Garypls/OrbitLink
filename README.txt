@@ -1,16 +1,14 @@
 OrbitLink - README
 
 Overview
-OrbitLink is a tool for Destiny 2 players designed to make joining fireteams easy and fast. With just a hotkey press or a click 
-of a button, you can join fireteams directly from Discord by copying the Bungie ID or entering it manually. The tool also supports 
-automatic joining attempts.
+- OrbitLink is a tool for Destiny 2 players, designed to make joining fireteams easy and fast and with just a hotkey press you can join fireteams directly from a Discord messages.
 
 Features
-- Hotkey Activation: Quickly join fireteams using customizable hotkeys.
-- Auto Join: Automatically retries joining fireteams for up to 30 seconds at random intervals (0.5–1 second).
+- Hotkey Activation: Quickly join fireteams using a changable hotkey (click cogwheel).
 - Manual Join: Manually input a Bungie ID (e.g., Player#1234) to join a fireteam.
+- Auto Join: Automatically retries joining fireteams for up to 30 seconds at random intervals (0.5–1 second).
 - Cancel Auto-Join: Use the ESC key to stop an ongoing auto-join session.
-- History Logging: View past join attempts and successes in the history window.
+- History Logging: View past join attempts and successes in the history window which can be double-clicked to rejoin that guardian again.
 
 System Requirements
 - Operating System: Windows 10 or newer
@@ -24,13 +22,13 @@ System Requirements
 Guide on How to Use OrbitLink
 
 1. Running OrbitLink:
-   - After downloading OrbitLink, extract the folder somewhere and simply double-click the `orbitlink.exe` file 
+   - After downloading OrbitLink, extract the folder somewhere and simply double-click the `OrbitLink.exe` file 
    to launch the application. Make sure Destiny 2 is started and you're sitting in orbit while running in “Windowed 
    Fullscreen / Borderless”.
 
 2. Join a Fireteam Using the Hotkey:
-   - Mouse-over a Bungie ID (e.g., Player#1234) from a post in Disocrd.
-   - Press the assigned hotkey (default is `F4`).
+   - Mouse-over a Bungie ID (e.g., Player#1234) from a message in Disocrd.
+   - Press your assigned hotkey (default is `F4`).
    - OrbitLink will automatically join the fireteam using the copied Bungie ID.
 
 3. Manually Enter a Bungie ID:
@@ -44,7 +42,7 @@ Guide on How to Use OrbitLink
 
 5. History Log:
    - The "History" section shows past join attempts, with timestamps and results (success or failure).
-   - You can filter through past join attempts using the search bar.
+   - You can filter through past join attempts using the search bar and double-click on an antry to rejoin that guardian.
 
 6. Minimise/closing:
    - Leave the window open, minimise it to hide it or click the "×" to fully close when you're done.
