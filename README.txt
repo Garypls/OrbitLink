@@ -67,7 +67,7 @@ Troubleshooting
    - Solution: Make sure the `join_history.log` file is in the same folder as OrbitLink. If missing, try restarting OrbitLink.
 
 Contact
-If you have any questions or need help, feel free to contact the developer on Discord: gery
+If you have any questions or need help, feel free to contact the author on Discord: gery
 
 License and Fee's
 - This tool is free for use by anyone and does not require a license.
