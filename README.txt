@@ -25,11 +25,11 @@ Guide on How to Use OrbitLink
 
 1. Running OrbitLink:
    - After downloading OrbitLink, extract the folder somewhere and simply double-click the `orbitlink.exe` file 
-   to launch the application. Make sure Destiny 2 is started and you're sitting in Orbit while running in “Windowed 
+   to launch the application. Make sure Destiny 2 is started and you're sitting in orbit while running in “Windowed 
    Fullscreen / Borderless”.
 
-2. Join a Fireteam Using Hotkey:
-   - Copy a valid Bungie ID (e.g., Player#1234) from a LFG post, message or username from Discord.
+2. Join a Fireteam Using the Hotkey:
+   - Mouse-over a Bungie ID (e.g., Player#1234) from a post in Disocrd.
    - Press the assigned hotkey (default is `F4`).
    - OrbitLink will automatically join the fireteam using the copied Bungie ID.
 
