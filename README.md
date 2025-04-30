@@ -69,8 +69,9 @@ Troubleshooting
 Contact
 If you have any questions or need help, feel free to contact the developer on Discord: gery
 
-License
-This tool open-source  and free for use by anyone and does not require a license.
+License and Fee's
+This tool is free for use by anyone and does not require a license.
+
 
 DISCLAIMER  &  USER AGREEMENT
 ────────────────────────────────────────────────────────────────────
