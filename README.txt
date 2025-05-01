@@ -1,7 +1,7 @@
 OrbitLink - README
 
 Overview
-- OrbitLink is a tool for Destiny 2 players, designed to make joining fireteams easy and fast and with just a hotkey press you can join fireteams directly from a Discord messages.
+- OrbitLink is a tool for Destiny 2 players, designed to make joining fireteams easy and fast and with just a hotkey press you can join fireteams directly from a Discord message.
 
 Features
 - Hotkey Activation: Quickly join fireteams using a changable hotkey (click cogwheel).
