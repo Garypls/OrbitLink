@@ -4,7 +4,7 @@ Overview
 - OrbitLink is a tool for Destiny 2 players, designed to make joining fireteams easy and fast and with just a hotkey press you can join fireteams directly from a Discord message.
 
 Features
-- Hotkey Activation: Quickly join fireteams using a changable hotkey (click cogwheel).
+- Hotkey Activation: Quickly join fireteams by using a changable hotkey (click cogwheel) and hovering a discord message with your mouse (click cogwheel).
 - Manual Join: Manually input a Bungie ID (e.g., Player#1234) to join a fireteam.
 - Auto Join: Automatically retries joining fireteams for up to 30 seconds at random intervals (0.5–1 second).
 - Cancel Auto-Join: Use the ESC key to stop an ongoing auto-join session.
