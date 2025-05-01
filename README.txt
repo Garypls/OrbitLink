@@ -1,3 +1,6 @@
+Windows may scan or warn about this file due to it being unsigned. This is normal for indie tools created in Python. You can allow it manually.
+
+
 OrbitLink - README
 
 Overview
